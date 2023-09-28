@@ -1,3 +1,7 @@
+# My Thoughts
+
+Everything went pretty smooth for me. I did have to look over my notes for some syntax and basic reference. But, that's what they are for. Slight overlook when I initially displayed count with string interpolation. Double-checking the instructions, I realized I needed to do it with property binding. Easy fix.
+
 # BasicsInAction
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
