@@ -1,0 +1,12 @@
+<div class="text-center">
+  <button class="btn btn-success"
+  [ngStyle]="{ 'margin-right': '5px' }"
+  (click)="incCount()">Increase</button>
+  <button class="btn btn-danger"
+  [ngStyle]="{ 'margin-left': '5px' }"
+  (click)="decCount()">Decrease</button>
+</div>
+<div class="text-center">
+  <h2
+  [ngStyle]="{'margin-top': '10px'}">{{ count }}</h2>
+</div>
